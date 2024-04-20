@@ -1,7 +1,7 @@
-Oii, eu sou a Rafaela Bianek! Seja bem vindo(a) ao meu perfil GitHub!
+Hi, I'm Rafaela Bianek! Welcome to my GitHub profile!
 
-- 🔭 Cursando Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando Javascript
+- 🔭 Studying Systems Analysis and Development
+- 🌱 Studying Javascript
 
 ##
 
