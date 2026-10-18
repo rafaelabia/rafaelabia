@@ -5,7 +5,7 @@ UX/Product Designer with a front-end development background. I design B2B produc
 - 🎨 UX/Product Designer at Grupo ABL
 - 🎓 Systems Analysis and Development – Unicuritiba
 - 💻 Here you'll find my front-end projects and experiments
-- 🌐 Portfolio: [rafaelabianek.com.br](https://rafaelabianek.com.br)
+
 
 <p>
   <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
